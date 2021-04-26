@@ -12,7 +12,7 @@ int main()
 	{       printf("enter value=");
 		scanf("%d", &a[i]);
 		i=i+1;
-	}																//printing *
+	}
 
 		i=0;
 		while(i<n)
