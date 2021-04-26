@@ -1,3 +1,15 @@
+/*
+sum of array
+
+Enter number of elements: 5
+Enter value: 12
+Enter value: 23
+Enter value: 43
+Enter value: 45
+Enter value: 24
+147
+*/
+
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
