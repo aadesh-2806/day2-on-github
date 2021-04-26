@@ -1,2 +1,2 @@
 # day2-on-github
-it contains some more problems related to arrays
+it contains some more problems related to arrays and properties
