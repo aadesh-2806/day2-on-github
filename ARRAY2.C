@@ -15,7 +15,7 @@ int main()
 
 	}
 
-			m=a[0];											//to find max
+			m=a[0];		//to find max
 			i=1;
 			while(i<n)
 			{
