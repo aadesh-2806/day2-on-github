@@ -1,3 +1,18 @@
+/*
+find min in array
+
+Welcome
+Enter no,of values=
+5
+enter value=23
+enter value=34
+enter value=45
+enter value=56
+enter value=67
+23
+
+*/
+
 #include<stdio.h>
 #include<conio.h>
 int main()
