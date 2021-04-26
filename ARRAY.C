@@ -1,3 +1,20 @@
+/*
+output stars
+Welcome
+Enter no,of values=
+5
+enter value=1
+enter value=2
+enter value=3
+enter value=4
+enter value=5
+*
+**
+***
+****
+*****
+*/
+
 #include<stdio.h>
 #include<conio.h>
 int main()
