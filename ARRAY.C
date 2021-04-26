@@ -17,7 +17,7 @@ int main()
 		i=0;
 		while(i<n)
 		{
-			m=a[i];
+			m=a[i]; 
 			while(m>=1)
 			{
 				printf("*");
