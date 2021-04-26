@@ -1,3 +1,17 @@
+/*
+find average
+Welcome
+Enter no.of values=5
+enter value=324
+enter value=23
+enter value=23
+enter value=23
+enter value=23
+sum=416.000000
+average=83.199997
+*/
+
+
 #include<stdio.h>
 
 int main()
@@ -5,7 +19,7 @@ int main()
 	int i,n,a[20];
 	float c;
 
-	printf("Welcome aadesh agrawal(2019uec1660)\nEnter no.of values=");
+	printf("Welcome\nEnter no.of values=");
 	scanf("%d" ,&n);
 	c=0;																//average
 	for(i=0;i<n;i++)
