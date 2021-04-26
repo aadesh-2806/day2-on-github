@@ -1,3 +1,17 @@
+/*
+find max
+
+Welcome
+Enter no,of values=
+5
+enter value=12
+enter value=23
+enter value=67
+enter value=45
+enter value=32
+67
+*/
+
 #include<stdio.h>
 #include<conio.h>
 int main()
