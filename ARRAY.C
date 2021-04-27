@@ -22,7 +22,7 @@ int main()
 {
 	int i,n,m,a[200];
 	//clrscr();
-	printf("Welcome\nEnter no,of values=\n");
+	printf("Welcome\nEnter no,of values=\n"); 
 	scanf("%d" ,&n);
 
 	i=0;
