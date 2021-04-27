@@ -1,5 +1,6 @@
 /*
 output stars
+
 Welcome
 Enter no,of values=
 5
